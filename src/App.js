@@ -1,6 +1,6 @@
 import SPB from './components/img/320a282765ab36c00fbf408ea26ccb2c1f1835bb.jpg';
-import Pekin from './components/img/1441853692_0001.jpg';
-import Murino from './components/img/1441853692_0001.jpg';
+import Pekin from './components/img/161015 2Кme bureau Е PВkin_0.jpg';
+import Murino from './components/img/b727d6686c851476d25e26345638a4ee.jpg';
 import Dushanbe from './components/img/NOLX1244.jpg';
 import './App.css';
 import Section from './components/Section'
